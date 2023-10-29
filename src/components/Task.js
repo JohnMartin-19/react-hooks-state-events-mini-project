@@ -17,7 +17,7 @@ function Task({TASKS}) {
       return task.id === filter
     }
   })
-
+  
 
   return (
     <div className="task">
